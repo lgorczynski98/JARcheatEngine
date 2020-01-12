@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e7813f1-4ac7-42cc-9670-98781b1331f3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/JarModifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="method#JarModifier#0;class#JarModifier#0" />
+                <element signature="method#modifyJar#0;class#JarModifier#0" />
+                <element signature="e#518#884#1" />
+                <element signature="e#590#874#1" />
+                <element signature="e#612#764#0" />
+                <element signature="e#800#860#0" />
+                <element signature="e#897#1240#0" />
+                <element signature="e#1268#1312#0" />
+                <element signature="method#removeClass#0;class#JarModifier#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JARClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/JarClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/JarExplorer.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META_INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JarExplorer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClassAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JarChangeable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MethodAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FieldSrcCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FieldAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JarModifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FieldRemover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MethodRemover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ScriptHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodBeforAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/BodyModifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/BodyChangeable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodBodySetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodBeforeAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodRemover.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/FieldSrcCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/FieldRemover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/ConstructorAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/ConstructorRemover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/BodyModifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/BodyChangeable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/ConstructorBodySetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/ArgsManipulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/reflection/ScriptHandler.java" />
+        <option value="$PROJECT_DIR$/testScript.txt" />
+        <option value="$PROJECT_DIR$/ctorBody.txt" />
+        <option value="$PROJECT_DIR$/ctor.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/MethodAfterAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/MethodBeforeAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/MethodBodySetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/reflection/JarExplorer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/reflection/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/JarModifier.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cheatEngine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cheatEngine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jfk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jfk" type="462c0819:PsiDirectoryNode" />
+              <item name="bodymodifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jfk" type="462c0819:PsiDirectoryNode" />
+              <item name="jarmodifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheatEngine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheatEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jfk" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576855968112" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="D:/Java/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jfk.bodymodifiers" />
+      <recent name="com.jfk.reflection" />
+      <recent name="com.jfk.jarmodifiers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArgsManipulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jfk.jarmodifiers.ArgsManipulator" />
+      <module name="cheatEngine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jfk.jarmodifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jfk.reflection.Main" />
+      <module name="cheatEngine" />
+      <option name="PROGRAM_PARAMETERS" value="--list-classes --i Invaders.jar --script cheatScript.txt --o test.jar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArgsManipulator" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArgsManipulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7813f1-4ac7-42cc-9670-98781b1331f3" name="Default Changelist" comment="" />
+      <created>1573935970991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573935970991</updated>
+      <workItem from="1573935974480" duration="4177000" />
+      <workItem from="1573942233004" duration="4987000" />
+      <workItem from="1574012250356" duration="6724000" />
+      <workItem from="1574067871586" duration="5679000" />
+      <workItem from="1574078579053" duration="1782000" />
+      <workItem from="1574102742060" duration="10177000" />
+      <workItem from="1574156074842" duration="50000" />
+      <workItem from="1574157010028" duration="5083000" />
+      <workItem from="1574175200643" duration="39000" />
+      <workItem from="1574248074118" duration="2620000" />
+      <workItem from="1574253516469" duration="1883000" />
+      <workItem from="1574262604016" duration="12000" />
+      <workItem from="1574850403159" duration="29000" />
+      <workItem from="1574851108155" duration="478000" />
+      <workItem from="1574851742375" duration="87000" />
+      <workItem from="1574852500360" duration="37000" />
+      <workItem from="1574974784820" duration="3019000" />
+      <workItem from="1575020014423" duration="19000" />
+      <workItem from="1575032233784" duration="250000" />
+      <workItem from="1575033540885" duration="19000" />
+      <workItem from="1575131859990" duration="10312000" />
+      <workItem from="1575202014980" duration="12581000" />
+      <workItem from="1575223264415" duration="1418000" />
+      <workItem from="1575225783805" duration="332000" />
+      <workItem from="1575312088980" duration="2655000" />
+      <workItem from="1575363062752" duration="1320000" />
+      <workItem from="1575624837830" duration="2712000" />
+      <workItem from="1575629480065" duration="1928000" />
+      <workItem from="1575741669378" duration="1914000" />
+      <workItem from="1575744319871" duration="262000" />
+      <workItem from="1575891720111" duration="3753000" />
+      <workItem from="1575909667714" duration="33000" />
+      <workItem from="1575989901546" duration="765000" />
+      <workItem from="1576083543172" duration="2101000" />
+      <workItem from="1576417390562" duration="754000" />
+      <workItem from="1576485294952" duration="46000" />
+      <workItem from="1576587975738" duration="1889000" />
+      <workItem from="1576594377262" duration="35000" />
+      <workItem from="1576851515707" duration="4448000" />
+      <workItem from="1576859997542" duration="37000" />
+      <workItem from="1576876842020" duration="1622000" />
+      <workItem from="1576921529520" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98088000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43228602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3163597" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JarClassLoader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META_INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/JarChangeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/FieldRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/FieldAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.jfk">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.jfk</OriginalElement>
+          <nodes>
+            <node x="" y="">com.jfk.jarmodifiers</node>
+            <node x="" y="">com.jfk.bodymodifiers</node>
+            <node x="" y="">com.jfk.reflection</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="78.0" y="91.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.jfk.bodymodifiers">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.jfk.bodymodifiers</OriginalElement>
+          <nodes>
+            <node x="" y="">com.jfk.bodymodifiers.MethodBeforeAdder</node>
+            <node x="" y="">com.jfk.bodymodifiers.MethodBodySetter</node>
+            <node x="" y="">com.jfk.bodymodifiers.BodyChangeable</node>
+            <node x="" y="">com.jfk.bodymodifiers.MethodAfterAdder</node>
+            <node x="" y="">com.jfk.bodymodifiers.BodyModifier</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="246.0" y="91.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/ConstructorAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/BodyChangeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/ConstructorRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.26.0-GA/javassist-3.26.0-GA.jar!/javassist/CtBehavior.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="444" selection-start-line="444" selection-end-line="444" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/BodyModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="36" column="62" lean-forward="true" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.1/lib/src.zip!/java.base/sun/nio/ch/FileChannelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="774" selection-start-line="774" selection-end-line="774" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testScript.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/test.jar!/com/diamond/iain/javagame/entities/Aliens.class" />
+    <entry file="jar://$PROJECT_DIR$/test.jar!/com/diamond/iain/javagame/gfx/KeyManager.class" />
+    <entry file="jar://$PROJECT_DIR$/test.jar!/com/diamond/iain/javagame/entities/Player.class" />
+    <entry file="file://$PROJECT_DIR$/cheatScript.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctor.txt" />
+    <entry file="file://$PROJECT_DIR$/ctorBody.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/MethodBeforeAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/MethodBodySetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/MethodAfterAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/bodymodifiers/ConstructorBodySetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/test.jar!/com/diamond/iain/javagame/Intefejs.class" />
+    <entry file="jar://$PROJECT_DIR$/test.jar!/com/diamond/iain/javagame/Game.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="142" column="32" lean-forward="true" selection-start-line="142" selection-start-column="32" selection-end-line="142" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/test.jar!/com/diamond/iain/javagame/Test.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/reflection/JarExplorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#JarExplorer#0;class#JarExplorer#0" />
+            <element signature="method#displayPackages#0;class#JarExplorer#0" />
+            <element signature="method#displayClasses#0;class#JarExplorer#0" />
+            <element signature="method#close#0;class#JarExplorer#0" />
+            <element signature="method#displayFields#0;class#JarExplorer#0" />
+            <element signature="method#displayMethods#0;class#JarExplorer#0" />
+            <element signature="method#displayConstructors#0;class#JarExplorer#0" />
+            <element signature="method#prepareJarOutPutStream#0;class#JarExplorer#0" />
+            <element signature="method#saveNewJar#0;class#JarExplorer#0" />
+            <element signature="method#copyFromJar#0;class#JarExplorer#0" />
+            <element signature="method#saveNewClasses#0;class#JarExplorer#0" />
+            <element signature="method#saveNewPackages#0;class#JarExplorer#0" />
+            <element signature="method#isEntryInRemovedPackage#0;class#JarExplorer#0" />
+            <element signature="method#addClassToJar#0;class#JarExplorer#0" />
+            <element signature="e#5895#5896#0" expanded="true" />
+            <element signature="e#5940#5941#0" expanded="true" />
+            <element signature="method#permanentRemoveClass#0;class#JarExplorer#0" />
+            <element signature="e#6205#6206#0" expanded="true" />
+            <element signature="n#!!block;n#addPAckage#0;n#JarExplorer#0" />
+            <element signature="n#!!block;n#removePackage#0;n#JarExplorer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/reflection/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="73" column="99" selection-start-line="73" selection-start-column="99" selection-end-line="73" selection-end-column="99" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="e#330#670#1" />
+            <element signature="e#544#627#1" />
+            <element signature="method#handleListings#0;class#Main#0" />
+            <element signature="e#829#883#1" />
+            <element signature="e#931#984#1" />
+            <element signature="e#1032#1171#1" />
+            <element signature="e#1218#1356#1" />
+            <element signature="e#1402#1544#1" />
+            <element signature="method#handleOutput#0;class#Main#0" />
+            <element signature="e#1778#1883#1" />
+            <element signature="e#1896#1971#0" />
+            <element signature="e#1999#2043#0" />
+            <element signature="e#2086#2152#1" />
+            <element signature="e#2166#2215#0" />
+            <element signature="e#2243#2287#0" />
+            <element signature="method#handleScript#0;class#Main#0" />
+            <element signature="e#2764#2808#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/reflection/ScriptHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="method#ScriptHandler#0;class#ScriptHandler#0" />
+            <element signature="method#handle#0;class#ScriptHandler#0" />
+            <element signature="e#725#5696#0" />
+            <element signature="e#758#965#1" />
+            <element signature="e#1000#1132#1" />
+            <element signature="e#1162#1489#1" />
+            <element signature="e#1213#1356#0" />
+            <element signature="e#1392#1452#0" />
+            <element signature="e#1522#1720#1" />
+            <element signature="e#1530#1555#0" />
+            <element signature="e#1754#2092#1" />
+            <element signature="e#1812#1959#0" />
+            <element signature="e#1995#2055#0" />
+            <element signature="e#2129#2323#1" />
+            <element signature="e#2137#2169#0" />
+            <element signature="e#2354#2626#1" />
+            <element signature="e#2397#2493#0" />
+            <element signature="e#2529#2589#0" />
+            <element signature="e#2660#2948#1" />
+            <element signature="e#2706#2815#0" />
+            <element signature="e#2851#2911#0" />
+            <element signature="e#2984#3304#1" />
+            <element signature="e#3039#3171#0" />
+            <element signature="e#3207#3267#0" />
+            <element signature="e#3342#3685#1" />
+            <element signature="e#3419#3552#0" />
+            <element signature="e#3588#3648#0" />
+            <element signature="e#3722#4058#1" />
+            <element signature="e#3793#3925#0" />
+            <element signature="e#3961#4021#0" />
+            <element signature="e#4088#4358#1" />
+            <element signature="e#4130#4225#0" />
+            <element signature="e#4261#4321#0" />
+            <element signature="e#4391#4676#1" />
+            <element signature="e#4435#4543#0" />
+            <element signature="e#4579#4639#0" />
+            <element signature="e#4705#4990#1" />
+            <element signature="e#4756#4857#0" />
+            <element signature="e#4893#4953#0" />
+            <element signature="e#5022#5323#1" />
+            <element signature="e#5076#5190#0" />
+            <element signature="e#5226#5286#0" />
+            <element signature="e#5357#5686#1" />
+            <element signature="e#5416#5553#0" />
+            <element signature="e#5589#5649#0" />
+            <element signature="method#removeClass#0;class#ScriptHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/ArgsManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="method#createFieldSrc#0;class#ArgsManipulator#0" />
+            <element signature="e#582#646#1" />
+            <element signature="method#createFieldSrc#1;class#ArgsManipulator#0" />
+            <element signature="e#941#1005#1" />
+            <element signature="method#getArguments#0;class#ArgsManipulator#0" />
+            <element signature="e#1177#2251#0" />
+            <element signature="e#1599#1680#1" />
+            <element signature="e#1906#2140#1" />
+            <element signature="e#1928#2011#0" />
+            <element signature="e#2047#2126#0" />
+            <element signature="e#2279#2348#0" />
+            <element signature="method#createPrimitiveType#0;class#ArgsManipulator#0" />
+            <element signature="e#2458#3425#0" />
+            <element signature="e#2487#2583#1" />
+            <element signature="e#2608#2701#1" />
+            <element signature="e#2726#2819#1" />
+            <element signature="e#2846#2941#1" />
+            <element signature="e#2967#3061#1" />
+            <element signature="e#3085#3177#1" />
+            <element signature="e#3202#3295#1" />
+            <element signature="e#3321#3415#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/MethodAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/jarmodifiers/JarModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="method#JarModifier#0;class#JarModifier#0" />
+            <element signature="method#modifyJar#0;class#JarModifier#0" />
+            <element signature="e#518#884#1" />
+            <element signature="e#590#874#1" />
+            <element signature="e#612#764#0" />
+            <element signature="e#800#860#0" />
+            <element signature="e#897#1240#0" />
+            <element signature="e#1268#1312#0" />
+            <element signature="method#removeClass#0;class#JarModifier#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cheatEngine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.javassist:javassist:3.26.0-GA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

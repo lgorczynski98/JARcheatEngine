@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+com.jfk.reflection.Main-Class: com.jfk.reflection.Main

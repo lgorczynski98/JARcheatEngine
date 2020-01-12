@@ -1,0 +1,7 @@
+add-class com.diamond.iain.javagame.Test
+add-method com.diamond.iain.javagame.Test public void testowiron();
+add-interface com.diamond.iain.javagame.Intefejs
+add-package com.diamond.iain.javagame.pack
+remove-package com.diamond.iain.javagame.pack
+add-method com.diamond.iain.javagame.Game public void test();
+remove-package com.diamond.iain.javagame.gfx

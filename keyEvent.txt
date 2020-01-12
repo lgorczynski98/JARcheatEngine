@@ -1,0 +1,5 @@
+{
+this.cheat += $1.toString().charAt($1.toString().indexOf('\'') + 1);
+if(this.cheat.contains("kochamjfk"))
+com.diamond.iain.javagame.entities.Player.cheatActivated = true;
+}

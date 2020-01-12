@@ -1,0 +1,4 @@
+add-field com.diamond.iain.javagame.entities.Player public static boolean cheatActivated = false;
+set-method-body com.diamond.iain.javagame.entities.Player firePressed(boolean fire) newFirePressed.txt
+add-field com.diamond.iain.javagame.gfx.KeyManager String cheat = "";
+add-before-method com.diamond.iain.javagame.gfx.KeyManager keyTyped(java.awt.event.KeyEvent e) keyEvent.txt

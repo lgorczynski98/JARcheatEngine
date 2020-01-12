@@ -1,0 +1,13 @@
+{long now = System.currentTimeMillis();
+long duration = now - this.lastPressed;
+if ($1 && duration > 600L) {
+if(this.cheatActivated){
+for (int i = 0; i < com.diamond.iain.javagame.utils.GameConstants.RightWall - com.diamond.iain.javagame.utils.GameConstants.scaledWidth; i+=17) {
+            com.diamond.iain.javagame.Game.getAliens().addPlayerMissile(new java.awt.Point(i, com.diamond.iain.javagame.utils.GameConstants.missileYPos));
+        }
+}
+else{
+com.diamond.iain.javagame.Game.getAliens().addPlayerMissile(new java.awt.Point(this.x, com.diamond.iain.javagame.utils.GameConstants.missileYPos));
+}
+this.lastPressed = System.currentTimeMillis();
+}}
